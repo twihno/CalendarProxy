@@ -64,5 +64,16 @@
   "Functional Data Structures": "FDS",
   "Hardware Security": "HWSec",
   "Algorithmic Game Theory": "AGT",
-  "Fortgeschrittene Themen des Softwaretests": "AdvTest"
+  "Fortgeschrittene Themen des Softwaretests": "AdvTest",
+  "Höhere Mathematik ": "HM",
+  "Technische Mechanik ": "TM",
+  "CAD und Maschinenzeichnen": "CAD",
+  "Maschinenelemente": "ME",
+  "Thermodynamik": "Thermo",
+  "Werkstoffe des Maschinenbaus ": "WK",
+  "Technische Elektrizitätslehre ": "TE",
+  "Fluidmechanik ": "Fluid",
+  "Grundlagen der Fluidmechanik": "Fluid",
+  "Wärmetransportphänomene": "WTP",
+  "Regelungstechnik": "RT"
 }
